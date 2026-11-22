@@ -82,6 +82,8 @@ Each sequential circuit follows the same structure.
 
 ---
 
+<img width="586" height="744" alt="Screenshot 2026-11-22 065532" src="https://github.com/user-attachments/assets/b538a673-f390-407b-a16d-9d2a2b6f3d3b" />
+
 ## 5. Notes
 
 - The circuits were checked in Logisim by toggling inputs or running the clock, and comparing the display with the expected sequence.
